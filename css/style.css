@@ -46,6 +46,11 @@ h4{
     color: darkblue;
 }
 
+
+.cuerpo{
+    margin-left: 15px
+}
+
 header{
     display: flex;
     justify-content: center;
